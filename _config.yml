@@ -97,6 +97,14 @@ authors:
     web:  'https://github.com/ernestlwt'
     twitter: ''
     description: "Level 3 Beginner"
+  dave:
+    name: dave
+    display_name: dave
+    gravatar: ''
+    email: 'wongdavid610@gmail.com'
+    web:  'https://github.com/dbxwong'
+    twitter: ''
+    description: 'will work for coffee'
   
 
 # Plugins
